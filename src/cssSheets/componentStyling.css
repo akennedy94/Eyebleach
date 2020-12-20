@@ -1,0 +1,52 @@
+.image-container {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: 500px;
+}
+
+.button-false {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    vertical-align: top;
+}
+
+.dog-image {
+    max-width: 600px;
+    max-height: 500px;
+    width: 90%;
+    height: auto;
+    border-radius: 24px;
+    box-shadow: 0 18px 24px 0 rgba(0,0,0,0.24);
+}
+
+.dog-image-wrapper {
+    margin: auto;
+}
+
+.get-dog-button {
+    padding: 24px;
+    font-size: 16px;
+    font-weight: bolder;
+    transition-duration: 0.5s;
+    border-radius: 40px;
+    font-family: 'Open Sans', sans-serif;
+    outline: none;
+    margin-top: 24px;
+}
+
+.get-dog-button:hover {
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,0.24);
+}
+
+.get-dog-button-container {
+    height: 100%;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.get-dog-button-wrapper {
+    margin: auto;
+    width: 75%;
+}
