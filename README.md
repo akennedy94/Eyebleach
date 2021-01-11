@@ -8,6 +8,7 @@ In root:
 ------------
 
 npm install
+
 npm start
 
 ------------
@@ -21,4 +22,4 @@ Please note that the app is hosted on Heroku's free tier, it will need a minute 
 # Info
 This project was bootstrapped with Create React App.
 
-All images come from (https://dog.ceo/dog-api/), an open source Dog API!
+All images come from https://dog.ceo/dog-api/, an open source Dog API!
